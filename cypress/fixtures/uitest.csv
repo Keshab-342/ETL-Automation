@@ -1,0 +1,13 @@
+SUMLEV,REGION,STATE,SALES,DATE,DIM1,DIM2,MEAS1,PHRASE,PHRASE2
+10,2,Alabama,5101.23483,01/22,A,X,0.955307021624422,dogs$ dont eat *()cats,        phobos deimos123
+20,1,Alaska,5293.99786,01/22,A,Y,0.961782429218289,%&numbe was scratched     ,        phobos deimos124
+20,2,Arizona,8796.6607,,A,X,0.405659624539478,%&number was1245 scratched,&#*moons of j$%u23piter
+20,3,Arkansas,6593.33224,01/22,B,Y,0.912691508392807,%&number was scratched,%&number was1245 scratched
+20,4,California,7339.37531,01/22,B,X,0.852419884483403,dogs$ dont eat *()cats,"solar system  , sun"
+40,3,Colorado,7837.90515,,B,Y,0.706541542035495,dogs$ dont eat *()cats,dogs$ dont eat *()cats
+40,4,Connecticut,10345.71048,01/22,C,X,0.347934250229224,dogs$ dont eat *()cats,dogs$ dont eat *()cats
+40,4,Delaware,5694.24773,01/22,C,Y,0.33789453092368,    %&number was 5673scratched,"solar system  ,  sun"
+40,3,District of Columbia,11611.45219,01/22,C,X,0.560091430970719,    %&number was 5673scratched,    %&number was scratched
+40,4,Florida,9627.79327,02/22,A,Y,0.347934250229224,    %&number was 5673scratched,&#*moons of j$%u23piter
+40,2,Illinois,10569.49084,02/22,A,X,0.33789453092368,    %&number was 5673scratched,"solar system  , sun"
+40,1,Indiana,8366.69253,02/22,A,Y,0.560091430970719,    %&number was 5673scratched,   &#*moons of j$%u23piter
